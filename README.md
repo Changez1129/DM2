@@ -1,2 +1,18 @@
-# DM2
-频繁模式和关联规则挖掘
+# 数据挖掘 2021-2022-2
+
+> 1120181129 张成喆
+
+## 频繁模式和关联规则挖掘
+
+### 所选数据集
+
+- [Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews)
+
+### 具体报告（对应使用说明在文档内部）
+
+- [wine-reviews.ipynb](./wine_reviews.ipynb)
+
+- [wine-reviews.html](./wine_reviews.html)
+  
+- [wine-reviews.pdf](./wine_reviews.pdf)
+
