@@ -10,9 +10,9 @@
 
 ### 具体报告（对应使用说明在文档内部）
 
-- [wine-reviews.ipynb](./wine_reviews.ipynb)
+- [rules_mining.ipynb](./rules_mining.ipynb)
 
-- [wine-reviews.html](./wine_reviews.html)
+- [rules_mining.html](./rules_mining.html)
   
-- [wine-reviews.pdf](./wine_reviews.pdf)
+- [rules_mining.pdf](./rules_mining.pdf)
 
